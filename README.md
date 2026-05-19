@@ -53,7 +53,7 @@ This project was built as part of the XICS404 Big Data Engineering final exam at
 ### Prerequisites
 - Docker / Docker Compose (20.10+ / v2.0+)
 - Python 3.9+ with Java 17+
-- Apache Spark 3.5.x
+- Apache Spark 3.5.1
 
 ### Step-by-step execution
 
