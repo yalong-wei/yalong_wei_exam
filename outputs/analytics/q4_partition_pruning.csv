@@ -1,0 +1,3 @@
+query_type,count,execution_time_s,speedup_x
+full_scan,1024,0.168,1.0
+partition_pruned,0,0.097,1.74

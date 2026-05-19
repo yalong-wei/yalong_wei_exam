@@ -1,0 +1,4 @@
+sensor,global_mean,global_min,global_max,global_stddev,total_observations,anomaly_rate_pct
+humidity,64.96,30.21,94.93,19.95,347,12.97
+pressure,1010.68,980.03,1039.55,17.9,321,37.38
+temperature,31.03,15.06,44.93,8.85,356,39.33
